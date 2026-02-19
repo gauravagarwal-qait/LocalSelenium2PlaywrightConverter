@@ -1,0 +1,5 @@
+.tmp/
+converted_tests/
+__pycache__/
+.env
+*.pyc
